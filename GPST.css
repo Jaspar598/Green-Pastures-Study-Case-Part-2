@@ -1,0 +1,77 @@
+h1 {
+    color: rgb(0, 0, 0);
+    margin-bottom: 0;
+}
+
+.nav {
+    background-color: #70DBDB;
+    padding: 1%;
+}
+
+.deftext {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+main {
+    color: rgb(0, 0, 0)
+}
+
+footer {
+    color: rgb(0, 0, 0);
+}
+
+.info {
+    line-height: 0.3%;
+}
+
+.invis {
+    color: white;
+    padding: 0px;
+}
+
+.navtext {
+    margin: 0 15px;
+}
+
+.header {
+    background-color: #00B386;
+    color: white;
+    padding: 15px;
+    background-image: url("pasture.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    line-height: 40%
+}
+
+.graytext {
+    color: #666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.graytext2 {
+    color: #666666;
+    text-align: center;
+}
+
+.green {
+    color: green;
+    font-size: 120%;
+}
+
+footer {
+    text-align: center;
+    color: #666666;
+    font-size: 75%;
+}
+
+.span {
+    font-weight: bold;
+    color: rgb(40, 113, 142)
+}
+
+.black {
+    color: black;
+    font-size: 120%;
+}
